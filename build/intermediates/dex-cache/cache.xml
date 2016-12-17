@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chinenyeze\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-79bdd91127bf0067dfd5501b211b6f98c6de0465.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1cbcdf80a219a82267a5f3d433e31e9dad1b1629.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\pre-dexed\debug\classes-ca7e96f186627784f9f548e2f56c17dc2dd4ed9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\pre-dexed\debug\classes-4d1564d923f89ca4f2ac215b43dde48e64227a70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\libs\achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="C:\Users\Chinenyeze\Dropbox\PhD\Apps\PowerTutor\app\build\intermediates\pre-dexed\debug\achartengine-1.0.0-cbc5d50afa2d6de72f52550603e71e0a3e8d4caf.jar" />
+    </item>
+
+</items>
